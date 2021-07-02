@@ -11,6 +11,11 @@ public:
   {
     cpu_log |= flag;
   }
+
+  void end_controller(unsigned int flag)
+  {
+    cpu_log |= flag;
+  }
 };
 
 #endif
