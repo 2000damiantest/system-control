@@ -1,6 +1,8 @@
 #ifndef PROCESSOR_H
 #define PROCESSOR_H
 
+#define _CPUx64
+
 class controls
 {
 private:
